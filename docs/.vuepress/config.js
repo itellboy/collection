@@ -7,7 +7,14 @@ module.exports = {
   ],
   evergreen: true,
   cache: true,
-  plugins: ['@vuepress/back-to-top'],
+  plugins: [
+    '@vuepress/back-to-top', [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-161940276-1'
+      }
+    ]
+  ],
   themeConfig: {
     repo: 'itellboy/collection',
     lastUpdated: 'Last Updated',
