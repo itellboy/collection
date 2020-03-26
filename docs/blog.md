@@ -5,7 +5,7 @@
 - [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
 - [Dan Abramov](https://overreacted.io/)
 - [云谦(sorrycc)](https://sorrycc.com/)
-- [poetries)](http://blog.poetries.top/)
+- [poetries](http://blog.poetries.top/)
 - [Ovilia](http://zhangwenli.com/)
 - [木易杨前端](https://www.muyiy.cn/)
 - [玉伯](https://lifesinger.wordpress.com/)

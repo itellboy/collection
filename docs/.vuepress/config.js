@@ -3,7 +3,7 @@ module.exports = {
   description: 'Love what you do, do what you love. :)',
   base: '/collection/',
   head: [
-    ['link', { ref: 'icon', href: '/image/js-cube.png' }],
+    ['link', { rel: 'icon', href: '/svg/js-cube.svg', }],
   ],
   evergreen: true,
   cache: true,
@@ -18,7 +18,7 @@ module.exports = {
   themeConfig: {
     repo: 'itellboy/collection',
     lastUpdated: 'Last Updated',
-    logo: '/image/js-cube.png',
+    logo: '/svg/js-cube.svg',
     sidebar: [
       ['/welcome', '欢迎'],
       {
