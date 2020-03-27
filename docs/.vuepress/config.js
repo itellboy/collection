@@ -19,8 +19,10 @@ module.exports = {
     repo: 'itellboy/collection',
     lastUpdated: 'Last Updated',
     logo: '/svg/js-cube.svg',
+    sidebarDepth: 2,
     sidebar: [
       ['/welcome', '欢迎'],
+      ['/recommendation', '社区精选组件'],
       {
         title: '2020年',
         collapsable: false,

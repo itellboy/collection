@@ -1,4 +1,4 @@
-##  前端报刊
+##  最新热点
 
 - [科技爱好者周刊](http://www.ruanyifeng.com/blog/weekly/)
 - [前端开发者日报](http://caibaojian.com/c/news)
