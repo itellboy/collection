@@ -28,6 +28,7 @@
 - [图片在线压缩](https://tinypng.com/)
 - [端口检测 - 外网](https://www.yougetsignal.com/tools/open-ports/)
 - [端口检测 - 内网](http://coolaf.com/tool/port)
+- [ping 检测](http://ping.chinaz.com/)
 
 ## 文档
 
