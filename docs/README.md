@@ -12,7 +12,7 @@ features:
   details: Stay Hungry. Stay foolish.
 - title: Murphy's Law
   details: Anything that can go wrong will go wrong.
-footer: MIT Licensed | Copyright © 2018-present Itellboy
+footer: MIT Licensed | Copyright © 2020-present Itellboy
 ---
 
 ### Just go

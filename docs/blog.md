@@ -13,6 +13,7 @@
 - [张鑫旭](https://www.zhangxinxu.com/wordpress/)
 - [冴羽](https://github.com/mqyqingfeng/Blog)
 - [陈俊毅](https://ijason.cc/)
+- [pigcan](https://github.com/pigcan/blog)
 
 ### 团队 & 专栏
 
