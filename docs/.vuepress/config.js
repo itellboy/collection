@@ -29,6 +29,7 @@ module.exports = {
         sidebarDepth: 1,
         children: [
           ['/monthly/m202003', '03月']
+          ['/monthly/m202004', '04月']
         ]
       }
     ],
