@@ -2,6 +2,7 @@
 
 - [react-native-sketch](https://github.com/jgrancher/react-native-sketch)：A React Native component for touch-based drawing.
 - [react-native-pushy](https://github.com/reactnativecn/react-native-pushy)：React Native 热更新
+- [react-native-circular-progress](https://github.com/bartgryszko/react-native-circular-progress)
 
 **Animation**
 
