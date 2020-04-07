@@ -14,6 +14,7 @@
 - [冴羽](https://github.com/mqyqingfeng/Blog)
 - [陈俊毅](https://ijason.cc/)
 - [pigcan](https://github.com/pigcan/blog)
+- [TitanKing](https://www.titanjun.top/)
 
 ### 团队 & 专栏
 
