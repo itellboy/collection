@@ -34,6 +34,7 @@
 - [端口检测 - 外网](https://www.yougetsignal.com/tools/open-ports/)
 - [端口检测 - 内网](http://coolaf.com/tool/port)
 - [ping 检测](http://ping.chinaz.com/)
+- [一键脚本搭建SS/搭建SSR服务并开启BBR加速](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/)
 
 **媒体**
 
