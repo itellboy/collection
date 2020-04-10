@@ -35,6 +35,7 @@
 - [端口检测 - 内网](http://coolaf.com/tool/port)
 - [ping 检测](http://ping.chinaz.com/)
 - [一键脚本搭建SS/搭建SSR服务并开启BBR加速](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/)
+- [一键脚本搭建V2Ray+配置与优化](hhttps://www.flyzy2005.com/v2ray/how-to-build-v2ray/)
 
 **媒体**
 
