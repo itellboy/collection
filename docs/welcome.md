@@ -48,10 +48,16 @@
 
 ## 文档
 
-- [API 大集合](https://devdocs.io/)
+- [https://devdocs.io/](https://devdocs.io/)
 - [前端工程化概述](https://www.kancloud.cn/csnikey/fepro-guide/334544)
 - [Application Loader](https://help.apple.com/itc/apploader/)
+
+## React Native 
+
+- [React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/)
+- [TextInput keyboardType prop values](https://lefkowitz.me/visual-guide-to-react-native-textinput-keyboardtype-options/)
 
 ## 其他
 
 - [精品 MAC 应用分享](https://xclient.info)
+
