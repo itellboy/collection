@@ -27,7 +27,10 @@
 
 ## 工具
 
+**CODE**
+
 - [代码粘贴](https://paste.ubuntu.com/)
+- [正则表达式可视化](https://regexper.com/)
 
 **网络**
 
@@ -35,7 +38,7 @@
 - [端口检测 - 内网](http://coolaf.com/tool/port)
 - [ping 检测](http://ping.chinaz.com/)
 - [一键脚本搭建SS/搭建SSR服务并开启BBR加速](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/)
-- [一键脚本搭建V2Ray+配置与优化](hhttps://www.flyzy2005.com/v2ray/how-to-build-v2ray/)
+- [一键脚本搭建V2Ray+配置与优化](https://www.flyzy2005.com/v2ray/how-to-build-v2ray/)
 
 **媒体**
 
