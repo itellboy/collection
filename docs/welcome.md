@@ -6,10 +6,11 @@
 - [前端月报](http://blog.poetries.top/monthly/)
 - [FEX 技术周刊](http://fex.baidu.com/articles/)
 
-## 入门教程
+## 教程
 
 - [ECMAScript 6 入门教程](http://es6.ruanyifeng.com/)
 - [网道](http://wangdoc.com/)
+- [TypeScript使用手册](https://github.com/zhongsp/TypeScript)
 
 ## UI 库
 
