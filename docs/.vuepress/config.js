@@ -33,6 +33,10 @@ module.exports = {
         ]
       }
     ],
-    nav: [{ text: 'Treasure Blog', link: '/blog' }, { text: 'Treasure Website', link: '/website' }],
+    nav: [
+      { text: 'Treasure Blog', link: '/blog' },
+      { text: 'Treasure Website', link: '/website' },
+      { text: 'About Me', link: '/aboutme' },
+    ],
   },
 }

@@ -9,7 +9,7 @@ features:
 - title: Jeff Atwood
   details: Any application that can be written in JavaScript, will eventually be written in JavaScript.
 - title: Steve Jobs
-  details: Stay Hungry. Stay foolish.
+  details: Stay hungry, stay foolish.
 - title: Murphy's Law
   details: Anything that can go wrong will go wrong.
 footer: MIT Licensed | Copyright © 2020-present Itellboy
