@@ -10,7 +10,7 @@
 
 - [ECMAScript 6 入门教程](http://es6.ruanyifeng.com/)
 - [网道](http://wangdoc.com/)
-- [TypeScript使用手册](https://github.com/zhongsp/TypeScript)
+- [TypeScript 使用手册](https://github.com/zhongsp/TypeScript)
 
 ## UI 库
 
@@ -38,13 +38,13 @@
 - [端口检测 - 外网](https://www.yougetsignal.com/tools/open-ports/)
 - [端口检测 - 内网](http://coolaf.com/tool/port)
 - [ping 检测](http://ping.chinaz.com/)
-- [一键脚本搭建SS/搭建SSR服务并开启BBR加速](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/)
-- [一键脚本搭建V2Ray+配置与优化](https://www.flyzy2005.com/v2ray/how-to-build-v2ray/)
+- [一键脚本搭建 SS/搭建 SSR 服务并开启BBR加速](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/)
+- [一键脚本搭建 V2Ray+ 配置与优化](https://www.flyzy2005.com/v2ray/how-to-build-v2ray/)
 
 **媒体**
 
 - [图片在线压缩](https://tinypng.com/)
-- [基于WebAudio/Webassembly的在线音频实时剪辑转码网站](http://www.xaudiopro.com)
+- [基于 WebAudio/Webassembly 的在线音频实时剪辑转码网站](http://www.xaudiopro.com)
 - [一个比较好用的自动抠图网站](https://bgeraser.com/index.html)
 
 ## 文档
