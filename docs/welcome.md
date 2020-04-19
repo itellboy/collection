@@ -12,26 +12,13 @@
 - [网道](http://wangdoc.com/)
 - [TypeScript 使用手册](https://github.com/zhongsp/TypeScript)
 
-## UI 库
-
-**桌面**
-
-- [Ant Design](https://ant.design/)
-
-**移动端**
-
-- [Ant Design Mobile](https://mobile.ant.design/)
-
-**微信小程序**
-
-- [Vant Weapp - 轻量、可靠的小程序 UI 组件库](https://youzan.github.io/vant-weapp/)
-
 ## 工具
 
 **CODE**
 
 - [代码粘贴](https://paste.ubuntu.com/)
 - [正则表达式可视化](https://regexper.com/)
+- [React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/)
 
 **网络**
 
@@ -52,11 +39,21 @@
 - [https://devdocs.io/](https://devdocs.io/)
 - [前端工程化概述](https://www.kancloud.cn/csnikey/fepro-guide/334544)
 - [Application Loader](https://help.apple.com/itc/apploader/)
-
-## React Native 
-
-- [React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/)
 - [TextInput keyboardType prop values](https://lefkowitz.me/visual-guide-to-react-native-textinput-keyboardtype-options/)
+
+## UI 库
+
+**桌面**
+
+- [Ant Design](https://ant.design/)
+
+**移动端**
+
+- [Ant Design Mobile](https://mobile.ant.design/)
+
+**微信小程序**
+
+- [Vant Weapp - 轻量、可靠的小程序 UI 组件库](https://youzan.github.io/vant-weapp/)
 
 ## 其他
 
