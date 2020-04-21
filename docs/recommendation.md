@@ -24,3 +24,12 @@
 **Animation**
 
 - [react-native-animatable](https://github.com/oblador/react-native-animatable)
+
+**Other**
+
+- [react-native-cameraroll](https://github.com/react-native-community/react-native-cameraroll)：相册读写
+- [react-native-view-shot](https://github.com/gre/react-native-view-shot)：屏幕截取
+
+## Other
+
+- [photo2cartoon](https://github.com/minivision-ai/photo2cartoon)：人像卡通脸

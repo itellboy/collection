@@ -11,6 +11,7 @@
 - [ECMAScript 6 入门教程](http://es6.ruanyifeng.com/)
 - [网道](http://wangdoc.com/)
 - [TypeScript 使用手册](https://github.com/zhongsp/TypeScript)
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 
 ## 工具
 
