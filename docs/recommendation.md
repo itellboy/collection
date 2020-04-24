@@ -28,6 +28,7 @@
 **Other**
 
 - [react-native-cameraroll](https://github.com/react-native-community/react-native-cameraroll)：相册读写
+- [react-native-camara](https://github.com/react-native-community/react-native-camera)：照相机调用
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot)：屏幕截取
 
 ## Other
