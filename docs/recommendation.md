@@ -5,6 +5,7 @@
 ## Javascript
 
 - [js-20-years-cn](https://github.com/doodlewind/js-20-years-cn)：🇨🇳《JavaScript 20 年》中文版
+- [query-string](hhttps://github.com/sindresorhus/query-string)
 
 ## React Native
 
@@ -14,6 +15,7 @@
 **UI**
 
 - [react-native-circular-progress](https://github.com/bartgryszko/react-native-circular-progress)：圆形进度条
+- [react-native-modal](https://github.com/react-native-community/react-native-modal)
 
 **Third**
 
