@@ -18,6 +18,9 @@
 
 - [react-native-circular-progress](https://github.com/bartgryszko/react-native-circular-progress)：圆形进度条
 - [react-native-modal](https://github.com/react-native-community/react-native-modal)
+- [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
+- [react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro)
+- [react-native-paper](https://github.com/callstack/react-native-paper)
 
 **Third**
 

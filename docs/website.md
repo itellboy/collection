@@ -5,3 +5,4 @@
 - [应用内测分发 --  fir.im](https://www.betaqr.com/)
 - [https://chudaobao.online/](https://chudaobao.online/)
 - [https://www.mairuan.com/](https://www.mairuan.com/)
+- [https://www.v2ray.com/](https://www.v2ray.com/)
