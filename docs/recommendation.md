@@ -5,12 +5,14 @@
 ## Javascript
 
 - [js-20-years-cn](https://github.com/doodlewind/js-20-years-cn)：🇨🇳《JavaScript 20 年》中文版
-- [query-string](hhttps://github.com/sindresorhus/query-string)
+- [query-string](https://github.com/sindresorhus/query-string)
+- [vite](https://github.com/vuejs/vite)：一个基于浏览器原生 ES imports 的开发服务器
 
 ## React Native
 
 - [react-native-sketch](https://github.com/jgrancher/react-native-sketch)：A React Native component for touch-based drawing.
 - [react-native-pushy](https://github.com/reactnativecn/react-native-pushy)：React Native 热更新
+- [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)：React Native iOS 键盘遮挡问题
 
 **UI**
 
