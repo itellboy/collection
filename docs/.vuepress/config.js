@@ -37,6 +37,15 @@ module.exports = {
       { text: 'Treasure Blog', link: '/blog' },
       { text: 'Treasure Website', link: '/website' },
       { text: 'About Me', link: '/aboutme' },
+      {
+        text: '友情链接',
+        items: [
+          {
+            text: 'JavascriptBasic',
+            link: 'https://itellboy.github.io/javascript-basic',
+          }
+        ],
+      }
     ],
   },
 }
