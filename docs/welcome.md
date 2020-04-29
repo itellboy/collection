@@ -12,6 +12,8 @@
 - [网道](http://wangdoc.com/)
 - [TypeScript 使用手册](https://github.com/zhongsp/TypeScript)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- [Bash 脚本教程](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html)
+- [git cherry-pick 教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
 
 ## 工具
 
