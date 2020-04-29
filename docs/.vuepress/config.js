@@ -38,10 +38,10 @@ module.exports = {
       { text: 'Treasure Website', link: '/website' },
       { text: 'About Me', link: '/aboutme' },
       {
-        text: '友情链接',
+        text: 'Friendly',
         items: [
           {
-            text: 'JavascriptBasic',
+            text: 'JavaScriptBasic',
             link: 'https://itellboy.github.io/javascript-basic',
           }
         ],
