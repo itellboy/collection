@@ -39,6 +39,9 @@
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot)：屏幕截取
 - [react-native-signature-capture](https://github.com/RepairShopr/react-native-signature-capture)：电子签名
 
-## Other
+## Machine Learning
 
 - [photo2cartoon](https://github.com/minivision-ai/photo2cartoon)：人像卡通脸
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting)：世界即绿布
+
+## Other
