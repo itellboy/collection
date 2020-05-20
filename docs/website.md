@@ -1,6 +1,6 @@
 ## Treasure Website
 
-### 设计类
+### 设计
 
 - [https://dribbble.com/](https://dribbble.com/)
 
