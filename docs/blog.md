@@ -27,3 +27,4 @@
 - [Ant Design 知乎专栏](https://zhuanlan.zhihu.com/antdesign)
 - [美团技术团队](https://tech.meituan.com/)
 - [D2 前端技术论坛](https://www.yuque.com/d2forum)
+- [.NET Blog](https://devblogs.microsoft.com/dotnet/)

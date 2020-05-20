@@ -12,3 +12,7 @@
 - [https://chudaobao.online/](https://chudaobao.online/)
 - [https://www.mairuan.com/](https://www.mairuan.com/)
 - [https://www.v2ray.com/](https://www.v2ray.com/)
+
+### 代码
+
+- [Nginx 的图形配置界面](https://www.digitalocean.com/community/tools/nginx)
