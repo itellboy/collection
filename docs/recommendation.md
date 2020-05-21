@@ -36,6 +36,7 @@
 
 - [react-native-cameraroll](https://github.com/react-native-community/react-native-cameraroll)：相册读写
 - [react-native-camara](https://github.com/react-native-community/react-native-camera)：照相机调用
+- [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot)：屏幕截取
 - [react-native-signature-capture](https://github.com/RepairShopr/react-native-signature-capture)：电子签名
 

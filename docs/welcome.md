@@ -38,6 +38,7 @@
 - [图片在线压缩](https://tinypng.com/)
 - [基于 WebAudio/Webassembly 的在线音频实时剪辑转码网站](http://www.xaudiopro.com)
 - [一个比较好用的自动抠图网站](https://bgeraser.com/index.html)
+- [在线图片编辑](https://www.yasuotu.com/editor)
 
 ## 文档
 
