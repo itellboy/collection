@@ -14,6 +14,7 @@
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [Bash 脚本教程](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html)
 - [git cherry-pick 教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
+- [动图展示 10 个 git 命令](https://mp.weixin.qq.com/s/1DKvzTv21ZGM0CUUPy_m9Q)
 
 ## 工具
 
