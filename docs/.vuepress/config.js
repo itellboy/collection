@@ -46,6 +46,12 @@ module.exports = {
             link: 'https://itellboy.github.io/javascript-basic',
           }
         ],
+      },
+      {
+        text: 'History',
+        items: [
+          { text: '三国', link: '/history/three-kingdoms' }
+        ]
       }
     ],
   },
