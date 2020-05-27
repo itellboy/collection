@@ -39,6 +39,12 @@ module.exports = {
       { text: 'Treasure Website', link: '/website' },
       { text: 'About Me', link: '/aboutme' },
       {
+        text: 'History',
+        items: [
+          { text: '三国', link: '/history/three-kingdoms' }
+        ]
+      },
+      {
         text: 'Friendly',
         items: [
           {
@@ -47,12 +53,6 @@ module.exports = {
           }
         ],
       },
-      {
-        text: 'History',
-        items: [
-          { text: '三国', link: '/history/three-kingdoms' }
-        ]
-      }
     ],
   },
 }
