@@ -41,6 +41,10 @@
 - [一个比较好用的自动抠图网站](https://bgeraser.com/index.html)
 - [在线图片编辑](https://www.yasuotu.com/editor)
 
+**存储**
+
+- [https://sendfiles.online/](https://sendfiles.online/)：一个免费的、不用注册的在线文件储存服务，最大可以上传 2GB，保存48小时。它会自动生成下载链接，可以分享给其他人。
+
 ## 文档
 
 - [https://devdocs.io/](https://devdocs.io/)
