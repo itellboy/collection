@@ -52,20 +52,6 @@
 - [Application Loader](https://help.apple.com/itc/apploader/)
 - [TextInput keyboardType prop values](https://lefkowitz.me/visual-guide-to-react-native-textinput-keyboardtype-options/)
 
-## UI 库
-
-**桌面**
-
-- [Ant Design](https://ant.design/)
-
-**移动端**
-
-- [Ant Design Mobile](https://mobile.ant.design/)
-
-**微信小程序**
-
-- [Vant Weapp - 轻量、可靠的小程序 UI 组件库](https://youzan.github.io/vant-weapp/)
-
 ## 其他
 
 - [精品 MAC 应用分享](https://xclient.info)
