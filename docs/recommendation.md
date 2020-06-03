@@ -8,6 +8,12 @@
 - [query-string](https://github.com/sindresorhus/query-string)
 - [vite](https://github.com/vuejs/vite)：一个基于浏览器原生 ES imports 的开发服务器
 
+**UI**
+
+- [Ant Design](https://ant.design/)
+- [Ant Design Mobile](https://mobile.ant.design/)
+- [Vant Weapp - 轻量、可靠的小程序 UI 组件库](https://youzan.github.io/vant-weapp/)
+
 ## React Native
 
 - [react-native-sketch](https://github.com/jgrancher/react-native-sketch)：A React Native component for touch-based drawing.
@@ -21,9 +27,6 @@
 - [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
 - [react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro)
 - [react-native-paper](https://github.com/callstack/react-native-paper)
-- [Ant Design](https://ant.design/)
-- [Ant Design Mobile](https://mobile.ant.design/)
-- [Vant Weapp - 轻量、可靠的小程序 UI 组件库](https://youzan.github.io/vant-weapp/)
 
 **Third**
 

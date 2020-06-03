@@ -23,6 +23,7 @@ module.exports = {
     sidebar: [
       ['/welcome', '欢迎'],
       ['/recommendation', '社区精选'],
+      ['/frontend-tree', '前端知识树'],
       {
         title: '2020年',
         collapsable: false,
@@ -32,18 +33,23 @@ module.exports = {
           ['/monthly/m202005', '05月'],
           ['/monthly/m202004', '04月'],
           ['/monthly/m202003', '03月'],
-        ]
-      }
+        ],
+      },
     ],
     nav: [
       { text: 'Treasure Blog', link: '/blog' },
       { text: 'Treasure Website', link: '/website' },
       { text: 'About Me', link: '/aboutme' },
       {
+        text: 'Interview', items: [
+          { text: 'Question', link: '/interview/question' },
+        ],
+      },
+      {
         text: 'History',
         items: [
-          { text: '三国', link: '/history/three-kingdoms' }
-        ]
+          { text: '三国', link: '/history/three-kingdoms' },
+        ],
       },
       {
         text: 'Friendly',
@@ -51,7 +57,7 @@ module.exports = {
           {
             text: 'JavaScriptBasic',
             link: 'https://itellboy.github.io/javascript-basic',
-          }
+          },
         ],
       },
     ],

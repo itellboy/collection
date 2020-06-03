@@ -4,7 +4,7 @@
 
 - [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
 - [Dan Abramov](https://overreacted.io/)
-- [云谦(sorrycc)](https://sorrycc.com/)
+- [云谦 (sorrycc)](https://sorrycc.com/)
 - [poetries](http://blog.poetries.top/)
 - [Ovilia](http://zhangwenli.com/)
 - [木易杨前端](https://www.muyiy.cn/)
@@ -17,6 +17,7 @@
 - [TitanKing](https://www.titanjun.top/)
 - [rebornix - 甩甩鸟哥很严肃](https://rebornix.com)
 - [题叶](https://tiye.me/)
+- [ConardLi 的 blog](http://www.conardli.top/blog/)
 
 ### 团队 & 专栏
 
@@ -28,3 +29,5 @@
 - [美团技术团队](https://tech.meituan.com/)
 - [D2 前端技术论坛](https://www.yuque.com/d2forum)
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
+- [富途 WEB 研发团队](https://futu.im/)
+- [网易云音乐前端技术团队](https://juejin.im/user/5cd23730f265da03576edbf1)
