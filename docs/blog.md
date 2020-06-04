@@ -18,6 +18,7 @@
 - [rebornix - 甩甩鸟哥很严肃](https://rebornix.com)
 - [题叶](https://tiye.me/)
 - [ConardLi 的 blog](http://www.conardli.top/blog/)
+- [jokcy](https://www.jokcy.me)
 
 ### 团队 & 专栏
 
