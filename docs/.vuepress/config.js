@@ -23,7 +23,6 @@ module.exports = {
     sidebar: [
       ['/welcome', '欢迎'],
       ['/recommendation', '社区精选'],
-      ['/frontend-tree', '前端知识树'],
       {
         title: '2020年',
         collapsable: false,
