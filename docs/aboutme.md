@@ -8,3 +8,19 @@
 | Weibo  | [itellboy](https://m.weibo.cn/u/3832442772)                     |
 | Wechat | q147258wer                                                      |
 | Base   | 浙江杭州                                                        |
+
+## Reading
+
+- 《乔布斯传》
+- 《CSS 新世界》
+- 《设计心理学》
+- 《JavaScript 权威指南》
+
+## TV
+
+- 《三国》
+- 《大明风华》
+
+## Audio
+
+- 《明朝那些事儿》
