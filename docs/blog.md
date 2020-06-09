@@ -21,6 +21,7 @@
 - [jokcy](https://www.jokcy.me)
 - [神三元-字节跳动](https://juejin.im/user/5c45ddf06fb9a04a006f5491/posts)
 - [郭晓东的博客](https://github.com/xd-tayde/blog)
+- [汤姆大叔](https://www.cnblogs.com/TomXu/)
 
 ### 团队 & 专栏
 
