@@ -39,11 +39,11 @@ module.exports = {
       { text: 'Treasure Blog', link: '/blog' },
       { text: 'Treasure Website', link: '/website' },
       { text: 'About Me', link: '/aboutme' },
-      {
-        text: 'Interview', items: [
-          { text: 'Question', link: '/interview/question' },
-        ],
-      },
+      // {
+      //   text: 'Interview', items: [
+      //     { text: 'Question', link: '/interview/question' },
+      //   ],
+      // },
       {
         text: 'History',
         items: [
