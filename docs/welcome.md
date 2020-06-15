@@ -9,7 +9,8 @@
 ## 知识图谱
 
 - [前端知识树](https://aonaotu.com/open/5ed775a160585900151989dd)
-- [React 知识树](https://aonaotu.com/open/5eda0b976058590015198e42)
+- [React](https://aonaotu.com/open/5eda0b976058590015198e42)
+- [你不知道的 JavaScript](https://aonaotu.com/open/5ee48c5ed0b66100157cf7ac)
 
 ## 教程
 
