@@ -22,6 +22,12 @@ module.exports = {
     sidebarDepth: 2,
     sidebar: [
       ['/welcome', '欢迎'],
+      {
+        title: '我的专栏',
+        children: [
+          '/post/sort'
+        ],
+      },
       ['/recommendation', '社区精选'],
       {
         title: '2020年',
