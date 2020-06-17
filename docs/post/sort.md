@@ -84,7 +84,9 @@ function quickSort(arr) {
   if (length < 2) {
     return arr;
   } else if (length === 2) {
-    if (arr[0] > arr[1]) [swap(arr, 0, 1)];
+    if (arr[0] > arr[1]) {
+      swap(arr, 0, 1);
+    }
     return arr;
   } else {
     let middleIndex = Math.floor(length / 2);
