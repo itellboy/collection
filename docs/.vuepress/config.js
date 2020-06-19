@@ -54,6 +54,7 @@ module.exports = {
         text: 'History',
         items: [
           { text: '三国', link: '/history/three-kingdoms' },
+          { text: '明朝那些事', link: '/history/ming-dynasty' },
         ],
       },
       {
