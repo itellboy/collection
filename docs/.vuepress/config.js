@@ -25,7 +25,10 @@ module.exports = {
       {
         title: '我的专栏',
         children: [
-          '/post/sort'
+          '/post/sort',
+          '/post/es-latest',
+          '/post/style',
+          '/post/regexp',
         ],
       },
       ['/recommendation', '社区精选'],
