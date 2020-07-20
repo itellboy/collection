@@ -22,6 +22,7 @@
 - [神三元-字节跳动](https://juejin.im/user/5c45ddf06fb9a04a006f5491/posts)
 - [郭晓东的博客](https://github.com/xd-tayde/blog)
 - [汤姆大叔](https://www.cnblogs.com/TomXu/)
+- [LinDaiDai_霖呆呆](https://juejin.im/user/59ffc33751882554b836ee63)
 
 ### 团队 & 专栏
 
@@ -35,3 +36,4 @@
 - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 - [富途 WEB 研发团队](https://futu.im/)
 - [网易云音乐前端技术团队](https://juejin.im/user/5cd23730f265da03576edbf1)
+- [前端阳光](https://juejin.im/user/5de68a2f518825125d148be6/posts)
