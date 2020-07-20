@@ -29,6 +29,7 @@ module.exports = {
           '/post/es-latest',
           '/post/style',
           '/post/regexp',
+          '/post/knowledge-graph',
         ],
       },
       ['/recommendation', '社区精选'],
