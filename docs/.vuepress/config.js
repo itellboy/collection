@@ -30,6 +30,7 @@ module.exports = {
           '/post/style',
           '/post/regexp',
           '/post/knowledge-graph',
+          '/interview/question',
         ],
       },
       ['/recommendation', '社区精选'],
