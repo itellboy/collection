@@ -34,3 +34,16 @@
 - 输出什么，async/await 原理是什么，把下面这段代码翻译成 Promise
 - src 和 href 的区别
 - A 网站登录，B,C 网站也有可以直接登录。
+
+## 字节跳动
+
+- 实现一个 switch 组件，受控与不受控
+- forwardRef 是什么意思
+- React 组件通信
+- function 组件如何实现 ref
+- 取消 ajax 请求
+- css position 属性
+- 跨域问题
+- 实现 promisify
+- 异步流处理
+- 二叉树左视图
