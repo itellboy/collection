@@ -7,7 +7,7 @@
 | Github  | [https://github.com/itellboy](https://github.com/itellboy)      |
 | Weibo   | [itellboy](https://m.weibo.cn/u/3832442772)                     |
 | Wechat  | itellboy                                                        |
-| Twitter | https://twitter.com/itellboyok                                  |
+| Twitter | [itellboyok](https://twitter.com/itellboyok)                    |
 | Base    | 浙江杭州                                                        |
 
 ## Reading

@@ -8,6 +8,8 @@
 - typeof 和 instanceOf
 - 事件委托
 - useLayoutEffect 和 useEffect
+- esModule 和 CommonJS
+- 普通函数和箭头函数
 
 ## 大华面试
 
