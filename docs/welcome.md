@@ -16,6 +16,7 @@
 - [git cherry-pick 教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
 - [动图展示 10 个 git 命令](https://mp.weixin.qq.com/s/1DKvzTv21ZGM0CUUPy_m9Q)
 - [OI Wiki](https://oi-wiki.org)
+- [Java 设计模式：23 种设计模式全面解析（超级详细）](http://c.biancheng.net/design_pattern/)
 
 ## 工具
 
