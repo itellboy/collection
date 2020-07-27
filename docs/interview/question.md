@@ -10,13 +10,15 @@
 - useLayoutEffect 和 useEffect
 - esModule 和 CommonJS
 - 普通函数和箭头函数
+- 防抖与节流
+- 根据 canvas 获取浏览器的指纹信息
 
 ## 大华面试
 
 - 在 React 列表渲染的时候，`key`有什么作用
 - React 生命周期
 - Vue 生命周期
-- React 父子组件通信方式
+- React 组件通信方式
 - webpack 常用的配置
 - 手动实现 Promise
 - 闭包场景，如何清除闭包引起的内存泄漏
@@ -24,6 +26,7 @@
 - 事件委托
 - ts 第三方库没有类型申明怎么处理
 - 块级元素垂直水平居中
+- 成员运算符的优先级大于赋值运算符
 
 ## [前端校招字节面试](https://juejin.im/post/5f14051ef265da22c058fac5)
 
@@ -47,6 +50,11 @@
 - 实现 promisify
 - 异步流处理
 - 二叉树左视图
+
+## 面试
+
+- http 常用的请求 header
+- cookie
 
 ## 常用
 
