@@ -12,6 +12,7 @@
 - 普通函数和箭头函数
 - 防抖与节流
 - 根据 canvas 获取浏览器的指纹信息
+- dom 元素 target, currentTarget
 
 ## 大华面试
 
@@ -55,6 +56,27 @@
 
 - http 常用的请求 header
 - cookie
+- 小程序页面栈十层
+- Promise 的好处
+- http 请求
+
+## 涂鸦智能1
+
+- 跨域
+- xss, csrf
+- event loop
+- http2
+- dom 事件机制
+- 闭包
+- this 指向
+- 继承实现
+- js 动画实现
+- 垂直水平居中
+- z-index
+- React 16 特性
+- React 类组件过期生命周期函数
+- Why React hooks?
+- Redux 基本原则
 
 ## 常用
 
