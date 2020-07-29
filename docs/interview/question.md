@@ -66,17 +66,41 @@
 - xss, csrf
 - event loop
 - http2
-- dom 事件机制
+- dom 事件机制，target，currentTarget
 - 闭包
 - this 指向
 - 继承实现
 - js 动画实现
 - 垂直水平居中
-- z-index
+- z-index 
 - React 16 特性
 - React 类组件过期生命周期函数
 - Why React hooks?
 - Redux 基本原则
+
+## 米雅科技
+
+- React 和 Vue 的区别
+- Event loop
+- 构造函数，原型，实例之间的关系
+- 垂直居中
+- CSS 选择器优先级
+- React 常用优化
+- Webpack 常用配置
+- useCallback 使用场景
+- 浏览器缓存
+- CSRF 攻击
+- script 标签的 defer 和 async 属性
+- DOMContentLoad 事件，load 事件，print 事件
+
+## 佳锐科技
+
+- React 和 Vue 的区别
+- vue-router
+- 数组去重
+- ES6 新特性
+- 垂直水平居中
+- React 组件之间的数据传递
 
 ## 常用
 
