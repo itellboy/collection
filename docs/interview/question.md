@@ -52,7 +52,7 @@
 - 异步流处理
 - 二叉树左视图
 
-## 面试
+## 微盟
 
 - http 常用的请求 header
 - cookie
@@ -60,7 +60,7 @@
 - Promise 的好处
 - http 请求
 
-## 涂鸦智能1
+## 涂鸦智能
 
 - 跨域
 - xss, csrf
@@ -92,6 +92,20 @@
 - CSRF 攻击
 - script 标签的 defer 和 async 属性
 - DOMContentLoad 事件，load 事件，print 事件
+
+### 现场
+
+- CSS 组合选择器 解析规则
+- CSS 优化手段
+- 清除浮动
+- 作用域链
+- 原型链
+- Redux ajax
+- Eslint prettier
+- 服务端渲染
+- Ts interface 和 type 的区别
+- 接口定义构造函数
+- 小程序登录方式，浏览器指纹，获取手机号
 
 ## 佳锐科技
 
