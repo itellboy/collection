@@ -14,7 +14,7 @@
 - 根据 canvas 获取浏览器的指纹信息
 - dom 元素 target, currentTarget
 
-## 大华面试
+## 大华
 
 - 在 React 列表渲染的时候，`key`有什么作用
 - React 生命周期
@@ -115,6 +115,22 @@
 - ES6 新特性
 - 垂直水平居中
 - React 组件之间的数据传递
+
+## 腾讯
+
+- Cookie
+- 内存溢出和内存泄漏
+- url -> 页面呈现过程
+- https 认证过程，客户端从哪些维度验证证书的合法性
+- vue 2.0 数组劫持
+- vue v-model 原理
+- React 常用优化措施
+- Webpack 常用配置项
+- Bable 原理
+- TreeShaking
+- 网页优化手段，结果如何
+- 什么是图片的预加载
+- 遇到最难的问题，是怎么解决的
 
 ## 常用
 
