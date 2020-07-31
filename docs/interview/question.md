@@ -13,6 +13,7 @@
 - 防抖与节流
 - 根据 canvas 获取浏览器的指纹信息
 - dom 元素 target, currentTarget
+- document.body 和 document.documentElement
 
 ## 大华
 
