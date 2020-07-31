@@ -127,6 +127,7 @@
 - vue 2.0 数组劫持
 - vue v-model 原理
 - React 常用优化措施
+- 函数组件如何实现高阶组件（HOC）
 - Webpack 常用配置项
 - Bable 原理
 - TreeShaking
