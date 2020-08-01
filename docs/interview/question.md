@@ -14,6 +14,7 @@
 - 根据 canvas 获取浏览器的指纹信息
 - dom 元素 target, currentTarget
 - document.body 和 document.documentElement
+- 手写 new 过程
 
 ## 大华
 

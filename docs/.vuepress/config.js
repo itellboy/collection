@@ -40,6 +40,7 @@ module.exports = {
         collapsable: false,
         sidebarDepth: 1,
         children: [
+          ['/monthly/m202008', '08月'],
           ['/monthly/m202007', '07月'],
           ['/monthly/m202006', '06月'],
           ['/monthly/m202005', '05月'],
