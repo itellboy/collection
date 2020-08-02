@@ -15,6 +15,7 @@
 - dom 元素 target, currentTarget
 - document.body 和 document.documentElement
 - 手写 new 过程
+- 函数柯里化
 
 ## 大华
 
