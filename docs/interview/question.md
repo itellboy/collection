@@ -16,6 +16,16 @@
 - document.body 和 document.documentElement
 - 手写 new 过程
 - 函数柯里化
+- viewport 视口
+- 时针和分针的夹角
+- Virtual DOM
+- Vue 响应式原理
+- Babel 与 AST
+- Webpack 配置，loader，plugin？
+- source map
+- vue, react diff
+- react fiber
+- 虚拟列表
 
 ## 大华
 
