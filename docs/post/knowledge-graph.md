@@ -11,3 +11,4 @@
 - [Vue 知识树](https://aonaotu.com/open/5f2427427f96cd0011f50efa)
 - [Webpack 知识树](https://aonaotu.com/open/5f25781ed0b66100157d538d)
 - [TypeScript 知识树](https://aonaotu.com/open/5f26c9d67f96cd0011f510ef)
+- [Web API 知识树](https://aonaotu.com/open/5f2a5b22d0b66100157d59e1)
