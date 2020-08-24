@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/itellboy/collection#readme",
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.5.2",
-    "@vuepress/plugin-google-analytics": "^1.5.2",
-    "vuepress": "^1.5.2"
+    "@vuepress/plugin-back-to-top": "^1.5.4",
+    "@vuepress/plugin-google-analytics": "^1.5.4",
+    "vuepress": "^1.5.4"
   }
 }
