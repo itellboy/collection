@@ -8,7 +8,8 @@
 | Weibo   | [itellboy](https://m.weibo.cn/u/3832442772)                     |
 | Wechat  | itellboy                                                        |
 | Twitter | [itellboyok](https://twitter.com/itellboyok)                    |
-| Base    | 浙江杭州                                                        |
+| Compnay | [Red City](https://xiaohongshu.com)                             |
+| Base    | 上海                                                            |
 
 ## Reading
 
@@ -67,6 +68,8 @@
 - 《我不是药神》✅
 - 《烈火英雄》✅
 - 《中国合伙人》✅
+- 《老炮儿》
+- 《烈日灼心》
 
 - 囧系列 ✅
 - 无间道系列 ✅
