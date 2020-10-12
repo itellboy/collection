@@ -54,3 +54,5 @@
 - [pose-animator](https://github.com/yemount/pose-animator)：一个浏览器 JS 库，通过摄像头，实时捕捉用户的动作，生成 2D 动画。
 
 ## Other
+
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll)
