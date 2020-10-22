@@ -2,18 +2,17 @@ module.exports = {
   title: 'Collection',
   description: 'Love what you do, do what you love. :)',
   base: '/collection/',
-  head: [
-    ['link', { rel: 'icon', href: '/svg/js-cube.svg', }],
-  ],
+  head: [['link', { rel: 'icon', href: '/svg/js-cube.svg' }]],
   evergreen: true,
   cache: true,
   plugins: [
-    '@vuepress/back-to-top', [
+    '@vuepress/back-to-top',
+    [
       '@vuepress/google-analytics',
       {
-        'ga': 'UA-161940276-1'
-      }
-    ]
+        ga: 'UA-161940276-1',
+      },
+    ],
   ],
   themeConfig: {
     repo: 'itellboy/collection',
@@ -31,6 +30,7 @@ module.exports = {
           '/post/style',
           '/post/regexp',
           '/post/knowledge-graph',
+          '/post/interesting-javascript-scope-closure',
           '/interview/question',
         ],
       },
