@@ -30,9 +30,12 @@ module.exports = {
           '/post/style',
           '/post/regexp',
           '/post/knowledge-graph',
-          '/post/interesting-javascript-scope-closure',
           '/interview/question',
         ],
+      },
+      {
+        title: '分享',
+        children: ['/share/interesting-javascript-scope-closure'],
       },
       ['/recommendation', '社区精选'],
       {
