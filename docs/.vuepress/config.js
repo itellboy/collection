@@ -35,7 +35,7 @@ module.exports = {
       },
       {
         title: '分享',
-        children: ['/share/interesting-javascript-scope-closure'],
+        children: [],
       },
       ['/recommendation', '社区精选'],
       {
