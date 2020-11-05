@@ -39,3 +39,4 @@
 - [富途 WEB 研发团队](https://futu.im/)
 - [网易云音乐前端技术团队](https://juejin.im/user/5cd23730f265da03576edbf1)
 - [前端阳光](https://juejin.im/user/5de68a2f518825125d148be6/posts)
+- [前端早读课](https://zdk.f2er.net/)
