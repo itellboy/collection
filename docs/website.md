@@ -22,3 +22,4 @@
 - [https://www.mairuan.com/](https://www.mairuan.com/)
 - [https://www.v2ray.com/](https://www.v2ray.com/)
 - [https://www.freelancer.com](https://www.freelancer.com)
+- [https://caniuse.com/](https://caniuse.com/)
