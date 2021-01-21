@@ -39,8 +39,16 @@ module.exports = {
       },
       ['/recommendation', '社区精选'],
       {
-        title: '2020年',
+        title: '2021年',
         collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/monthly/m202101', '01月'],
+        ],
+      },
+      {
+        title: '2020年',
+        collapsable: true,
         sidebarDepth: 1,
         children: [
           ['/monthly/m202012', '12月'],
