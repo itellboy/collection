@@ -37,12 +37,12 @@ module.exports = {
         title: '分享',
         children: [],
       },
-      ['/recommendation', '社区精选'],
       {
         title: '2021年',
         collapsable: false,
         sidebarDepth: 1,
         children: [
+          ['/monthly/m202103', '03月'],
           ['/monthly/m202101', '01月'],
         ],
       },
