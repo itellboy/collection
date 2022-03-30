@@ -38,6 +38,14 @@ module.exports = {
         children: [],
       },
       {
+        title: '2022年',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/monthly/m202203', '03月'],
+        ],
+      },
+      {
         title: '2021年',
         collapsable: false,
         sidebarDepth: 1,
